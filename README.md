@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @singhsanjay5151
+- 👋 Hi, I’m Er. Sanjay Singh
 - 👀 I’m PHP, Laravel Developer
 - 📫 reach me on +919098108694 or singhsanjay5151@gmail.com
 
